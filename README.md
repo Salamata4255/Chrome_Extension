@@ -1,5 +1,5 @@
 # Chrome_Extension
 
-# Walkthrough 
+# Video Walkthrough 
 
 https://recordit.co/arpDa8dbnH
