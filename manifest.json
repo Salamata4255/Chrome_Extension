@@ -1,0 +1,18 @@
+{
+    "name": "Final Extension",
+    "description" : "BBlearn extension",
+    "version" : "1.0",
+    "manifest_version" : 2,
+    "background": {
+        "scripts": ["./background.js"]
+    },
+    "options_page": "./options.html",
+    "browser_action" : {
+        "default_popup" : "popup.html"
+    },
+    "permissions":[
+        "tabs",
+        "<all_urls>"
+    
+    ]
+}
